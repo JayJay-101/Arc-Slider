@@ -1,5 +1,5 @@
 # Arc-Slider
-Simple Arc Slider for recyclerview! (https://github.com/cdflynn/turn-layout-manager) added double carousel effect
+Simple Arc Slider for recyclerview!  added double carousel effect
 
 ## usage
 add library in gradle
